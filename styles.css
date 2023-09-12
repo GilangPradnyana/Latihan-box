@@ -14,7 +14,7 @@
 .box-1 h2 {
   width: 23%;
   height: 16%;
-  padding: 5px 10px 1px;
+  padding: 2px;
   border: 1px solid;
   background-color: aquamarine;
   margin: auto;
@@ -36,3 +36,43 @@
   margin-left: 3px;
 }
 
+
+/* Box-2 */
+.box-2 {
+  /* Font Family */
+  font-family: Verdana;
+  /* Box */
+  width:290px ;
+  height: 220px;
+  background-color: blueviolet;
+  border: 5px double darkolivegreen;
+  margin-top: 10px;
+}
+
+/* SubJudul */
+.box-2 h3 {
+  /* Font Family */
+  font-family: 'Lucida Sans';
+  /* box */
+  background-color: aquamarine;
+  width: 30%;
+  height: fit-content;
+  /* margin */
+  margin: 1px  auto;
+  /* Border */
+  border: 2px solid salmon;
+  /* padding */
+  padding: 2px 3px 4px ; 
+}
+
+/* Paragraph 2 */
+.box-2 p {
+  /* Box */
+  width:85% ;
+  height: fit-content;
+  background-color: brown;
+  border: 1px dotted dodgerblue;
+  margin-left: 2px;
+  /* text */
+  font-size: 15px;
+}
