@@ -1,0 +1,38 @@
+/* Box-1 */
+
+/* Box */
+.box-1 {
+  font-family: 'Times New Roman';
+  height: 178px;
+  width: 290px;
+  background-color: aqua;
+  border: 2px darkgoldenrod dotted;
+
+}
+
+/* Judul */
+.box-1 h2 {
+  width: 23%;
+  height: 16%;
+  padding: 5px 10px 1px;
+  border: 1px solid;
+  background-color: aquamarine;
+  margin: auto;
+}
+
+/* Paragraph 1 */
+.box-1 p {
+  font-size:15px ;
+  text-align:left;
+  background-color: beige;
+  /* Border */
+  border: 1px solid red;
+  /* Box */
+  width: 80%;
+  height: fit-content;
+  /* padding */
+  padding-left: 5px;
+  /* margin */
+  margin-left: 3px;
+}
+
