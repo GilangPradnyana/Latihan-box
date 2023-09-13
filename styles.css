@@ -76,3 +76,21 @@
   /* text */
   font-size: 15px;
 }
+
+/* Box-3 */
+.box-3 {
+  margin-top: 10px;
+}
+
+td {
+  background-color: aquamarine;
+  border: 2px solid;
+}
+
+td.deskripsi {
+  min-width: 700px;
+  min-height: 200px;
+  background-color: brown;
+}
+
+
